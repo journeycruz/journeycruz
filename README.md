@@ -6,7 +6,7 @@
 
 <br />
 
-```
+```javascript
 const journey = {
   location: "San Antonio, TX" | "Internet, Everywhere",
   languages: [HTML, CSS, JavaScript, SCSS],
