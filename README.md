@@ -7,10 +7,6 @@
 
 <br />
 
-> *"Perfection is reached, not when there is no longer anything to add, but when there is no longer anything to take away."* - Antoine de Saint-Exupéry
-
-<br />
-
 ### About
 ```javascript
 const journey = {
