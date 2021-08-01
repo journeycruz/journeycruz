@@ -7,6 +7,10 @@
 
 <br />
 
+> *"First, solve the problem. Then, write the code."* - John Johnson
+
+<br />
+
 ### About
 ```javascript
 const journey = {
