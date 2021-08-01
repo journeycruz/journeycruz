@@ -1,4 +1,5 @@
 ## Hi, I'm Journey Cruz &nbsp;👋 🤠
+*Front-End Developer at Cyan Bird Designs*
 
 <br />
 
