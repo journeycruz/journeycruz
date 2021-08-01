@@ -1,4 +1,4 @@
-### Hi, I'm Journey Cruz &nbsp;👋 🤠
+## Hi, I'm Journey Cruz &nbsp;👋 🤠
 
 <br />
 
@@ -6,7 +6,7 @@
 
 <br />
 
-#### About
+### About
 ```javascript
 const journey = {
   location: "San Antonio, TX" | "Internet, Everywhere",
