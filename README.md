@@ -8,8 +8,9 @@
 
 ```
 const journey = {
-  pronouns: "he" | "him",
-  languages: "HTML, CSS, JavaScript, SCSS",
-  tools: "React, Redux, GraphQL, Jest, Express, MongoDB, MySQL, Mongoose, Sequelize, Node"
+  location: "San Antonio, TX" | "Internet, Everywhere",
+  languages: [HTML, CSS, JavaScript, SCSS],
+  tools: [React, Redux, GraphQL, Jest, Express, MongoDB, MySQL, Mongoose, Sequelize, Node]
+  currentProject: "SpaceX Launch Stats"
 }
 ```
