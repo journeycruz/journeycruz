@@ -7,7 +7,9 @@
 <br />
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
+const journey = {
+  pronouns: "he" | "him",
+  languages: "HTML, CSS, JavaScript, SCSS",
+  tools: "React, Redux, GraphQL, Jest, Express, MongoDB, MySQL, Mongoose, Sequelize, Node"
 }
 ```
