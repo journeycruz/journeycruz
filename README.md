@@ -9,7 +9,7 @@
 
 ```javascript
 const journey = {
-    location: "San Antonio, TX" | "Internet, Everywhere",
+    location: "San Antonio, TX" || "Internet, Everywhere",
     languages: [HTML, CSS, JavaScript, SCSS],
     tools: [React, Redux, GraphQL, Jest, Express, MongoDB, MySQL, Mongoose, Sequelize, Node],
     currentlyLearning: "Apollo",
