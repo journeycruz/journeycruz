@@ -7,7 +7,7 @@
 
 <br />
 
-An experienced developer capable of building complete web applications using JavaScript technologies across the MERN stack (MongoDB, Express.js, React.js, Node.js).
+A Full-Stack Web Developer with experience building complete web applications using JavaScript technologies across the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 <br />
 
