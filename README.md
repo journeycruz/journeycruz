@@ -7,11 +7,6 @@
 
 <br />
 
-A Full-Stack Web Developer with experience building complete web applications using JavaScript technologies across the MERN stack (MongoDB, Express.js, React.js, Node.js).
-
-<br />
-
-### About Me
 ```javascript
 const journey = {
     location: "San Antonio, TX" | "Internet, Everywhere",
