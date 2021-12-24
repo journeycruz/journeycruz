@@ -16,7 +16,7 @@
 ![GitHub Banner](https://i.ibb.co/Vgm84Vk/Github-1.png)
         
 ## About Me
-Hi, I'm Journey a software engineer from San Antonio, TX.
+Hi, I'm Journey - Software Engineer from San Antonio, TX.
 - 🔭 I'm currently working on building a React.js component library for Cyan Bird Designs, Inc.
 - 🌱 I'm currently learning GraphQL and Apollo Client
 - 👯 I'm looking to collaborate on an NFT marketplace with Polygon, Next.js, Tailwind, Solidity, Hardhat, Ethers.js, and IPFS
@@ -47,10 +47,10 @@ My motivation comes from creating art. I enjoy creating readable, maintainable, 
 ## Stats
 <div align='center'>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" width='54%' src="https://github-readme-stats.vercel.app/api?username=journeycruz&theme=react&show_icons=true" />
+      <img align="center" width='100%' src="https://github-readme-stats.vercel.app/api?username=journeycruz&theme=default&show_icons=true" />
     </a>
     &nbsp;
     <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" width='44%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=journeycruz&layout=compact&theme=react" />
+      <img align="center" width='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=journeycruz&layout=compact&theme=default" />
     </a>
 </div>
