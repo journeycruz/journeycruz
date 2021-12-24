@@ -45,11 +45,11 @@ Hi, I'm Journey - Software Engineer from San Antonio, TX.
 My motivation comes from creating art. I enjoy creating readable, maintainable, clean code that produces elegant UI's that are accessible for all users. I love learning new stuff and constantly pushing myself to evolve as an engineer.
         
 ## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width='75%' src="https://github-readme-stats.vercel.app/api?username=journeycruz&theme=react&show_icons=true" />
-</a>
-<br />
-<br />        
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width='50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=journeycruz&theme=react" />
-</a>
+<div align='center'>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" width='53%' src="https://github-readme-stats.vercel.app/api?username=journeycruz&theme=react&show_icons=true" />
+    </a>      
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img align="center" width='44%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=journeycruz&theme=react&layout=compact" />
+    </a>
+</div>
