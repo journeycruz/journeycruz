@@ -1,13 +1,13 @@
 ## Journey Cruz—@journeycruz
 <div style='display: inline'>
     <a href='mailto:journey.cruz@gmail.com'>
-        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+        <img href='mailto:journey.cruz@gmail.com' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
     </a
     <a href='https://www.linkedin.com/in/journeycruz/'>
-        <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+        <img href='https://www.linkedin.com/in/journeycruz/' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a
     <a href='https://twitter.com/journeycxz'>
-        <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'/>
+        <img href='https://twitter.com/journeycxz' src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'/>
     </a
 </div>
 <br />
