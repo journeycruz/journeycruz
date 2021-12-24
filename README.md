@@ -16,15 +16,14 @@
 ![GitHub Banner](https://i.ibb.co/Vgm84Vk/Github-1.png)
         
 ## About Me
-Hi, I'm Journey - Software Engineer from San Antonio, TX.
+Hi, I'm Journey 👋🤠 - Software Engineer from San Antonio, TX.
 - 🔭 I'm currently working on building a React.js component library for Cyan Bird Designs, Inc.
 - 🌱 I'm currently learning GraphQL and Apollo Client
 - 👯 I'm looking to collaborate on an NFT marketplace with Polygon, Next.js, Tailwind, Solidity, Hardhat, Ethers.js, and IPFS
 - 🤔 I’m interested in learing React Native, Solidity, and Ruby on Rails
 - 💬 Ask me about CSS Layout, SCSS, and Tailwind CSS
-- 📫 How to reach me: Send me an email
+- 📫 How to reach me: [Send me an email](mailto:journey.cruz@gmail.com)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: If I'm not programming, I am in the driveway working on my 1969 Ford F-100
         
 #### My Favorite Tools:
 | [<img src="https://i.ibb.co/svqn8QQ/react-1.png" alt="react logo" width="50">](https://reactjs.org/)  |  [<img src="https://i.ibb.co/SnNMZ39/nextjs.png" alt="next.js logo" width="80">](https://nextjs.org/)  | [<img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql logo" width="138">](https://graphql.org/)  |  [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwind logo" width="138">](https://tailwindcss.com/) | [<img src="https://i.ibb.co/DMcn9ns/Png-Item-1166936.png" alt="sanity logo" width="108">](https://www.sanity.io/) |
