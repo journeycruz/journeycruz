@@ -12,8 +12,6 @@
 </div>
 <br />
 <br />
-
-![GitHub Banner](https://i.ibb.co/Vgm84Vk/Github-1.png)
         
 ## About Me
 Hi, I'm Journey 👋🤠 - Software Engineer from San Antonio, TX.
